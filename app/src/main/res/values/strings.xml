@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">te2_3kongjiantest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_zhuan_acticity">ZhuanActicity</string>
+    <string name="title_activity_text_viewtest">textViewtest</string>
+    <string name="title_activity_main_caidan">main_caidan</string>
+</resources>
